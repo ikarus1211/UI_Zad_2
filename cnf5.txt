@@ -1,0 +1,16 @@
+#For 6x6 width
+timeA= 75
+posA1= 4 4
+posA2= 3 3
+posA3= 2 2
+posA4= 1 1
+posA5= 5 5
+
+#For 5x5 width
+timeB= 20
+posB1= 0 0
+posB2= 1 1
+posB3= 2 2
+posB4= 3 3
+posB5= 4 4
+End
